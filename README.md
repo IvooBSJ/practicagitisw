@@ -1,4 +1,4 @@
-# practicagitisw
+# practicagitis
 
 Este repositorio incluye una página HTML simple:
 
